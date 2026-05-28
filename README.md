@@ -251,24 +251,4 @@ Potential enhancements:
 
 ---
 
-# Screenshots
 
-Add screenshots here:
-
-```markdown
-![Dashboard](screenshots/dashboard.png)
-![Courses](screenshots/courses.png)
-![Logs](screenshots/logs.png)
-```
-
----
-
-# Author
-
-Developed as a concurrent systems / operating systems simulation project using C, GTK, and pthreads.
-
----
-
-# License
-
-This project is open-source and available under the MIT License.
